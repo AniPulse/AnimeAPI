@@ -1,9 +1,6 @@
 <div align="center">
-
-# Anime API
-
 <p align="center">
-      <img src="./assets/banner.png" width="200" height="200" and alt="Banner"/>
+      <img src="./assets/banner.png" alt="Banner"/>
 </p>
 
 <!-- BADGES START -->
