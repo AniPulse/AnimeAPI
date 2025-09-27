@@ -1498,21 +1498,64 @@ console.log(resp.data);
 }
 ```
 
-> ### Pull Requests
+## 🤝 Contributing
 
-- Pull requests are welcomed that address bug fixes, improvements, or new features.
-- Fork the repository and create a new branch for your changes.
-- Ensure your code follows our coding standards.
-- Include tests if applicable.
-- Describe your changes clearly in the pull request, explaining the problem and solution.
+Contributions are welcome! Feel free to:
 
-> ### Reporting Issues
+* 💡 Suggest features or improvements
+* 🐛 Report bugs or usability issues
+* 🤝 Submit pull requests
 
-If you discover any issues or have suggestions for improvement, please open an issue. Provide a clear and concise description of the problem, steps to reproduce it, and any relevant information about your environment.
+### 🚧 How to Contribute
 
-> ### Support
->
-> If you like the project feel free to drop a star ✨. Your appreciation means a lot.
+1. Fork this repo
+2. Create your feature branch:
 
-<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/Shineii86" tarGET="_blank">Shineii86 
-</a>🫰</p>
+   ```bash
+   git checkout -b feature/amazing-feature
+   ```
+3. Commit your changes:
+
+   ```bash
+   git commit -m "Add amazing feature"
+   ```
+4. Push to your branch:
+
+   ```bash
+   git push origin feature/amazing-feature
+   ```
+5. Open a Pull Request
+
+Please follow the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/).
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 💕 Loved My Work?
+
+🚨 [Follow me on GitHub](https://github.com/Shineii86)
+
+⭐ [Give a star to this project](https://github.com/Shineii86/AnimeAPI)
+
+<div align="center">
+
+<a href="https://github.com/Shineii86/AniList">
+<img src="https://github.com/Shineii86/AniPay/blob/main/Source/Banner6.png" alt="Banner">
+</a>
+  
+  *For inquiries or collaborations*
+     
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Shineii86 "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
+[![Pinterest Badge](https://img.shields.io/badge/-Pinterest-E60023?style=flat&logo=Pinterest&logoColor=white)](https://pinterest.com/ikx7a "Follow on Pinterest")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
+
+  <sup><b>Copyright © 2025 <a href="https://telegram.me/Shineii86">Shinei Nouzen</a> All Rights Reserved</b></sup>
+
+</div>
