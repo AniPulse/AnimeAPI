@@ -59,9 +59,7 @@ A powerful and fast **RestFul API** made with **Node.js** for fetching comprehen
 - [🐛 Reporting Issues](#-reporting-issues)
 - [⭐ Support](#-support)
 
-> # Installation
-
-## Local installation
+## ⚙️ Local installation
 
 Make sure you have node installed on your device
 
@@ -87,7 +85,7 @@ ALLOWED_ORIGIN=<https://site1.com>,<https://site2.com>,...
 $ npm start #or npm run devStart
 ```
 
-> # Deployment
+## 🌩️ Deployment
 
 ### Vercel
 
@@ -101,7 +99,7 @@ Host your own instance of AnimeAPI on Render.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Shineii86/AnimeAPI)
 
-> # Documentation
+## 📚 Documentation
 
 ### `GET` Home info
 
@@ -115,7 +113,7 @@ Host your own instance of AnimeAPI on Render.
   /api/
 ```
 
-> #### No parameter required ❌
+#### No parameter required ❌
 
 #### Example of request
 
@@ -249,7 +247,7 @@ console.log(resp.data);
   /api/top-ten
 ```
 
-> #### No parameter required ❌
+#### `No parameter required`
 
 #### Example of request
 
@@ -310,7 +308,7 @@ console.log(resp.data);
   GET /api/top-search
 ```
 
-> #### No parameter required ❌
+#### No parameter required ❌
 
 #### Example of request
 
